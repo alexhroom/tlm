@@ -1,4 +1,4 @@
-module alexhroom/tlm
+module github.com/alexhroom/tlm
 
 go 1.18
 
